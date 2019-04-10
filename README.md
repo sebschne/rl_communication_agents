@@ -1,0 +1,2 @@
+# Communication Learning Agents
+This is code simulates a learning scenario where two agents try to learn the meaning of unknown communication signals in order to solve a joint task (i.e., moving a cup to the goal position). Agent a can use signals like gaze and speech and agent b can move the cup. During the learning process the agents try to find out the meaning of the communication signals and move the cups to the goal position.
